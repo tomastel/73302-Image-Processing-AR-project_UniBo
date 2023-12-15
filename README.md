@@ -21,6 +21,18 @@ Two solutions were developed; one using Frame-to-reference transformations (outp
 
 <br>
 
+<p align="center">
+  <figure style="display: inline-block;">
+    <img alt="Original video" src="imgs/ReferenceFrame.png" width="40%">
+    <figcaption>Original Video Caption</figcaption>
+  </figure>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <figure style="display: inline-block;">
+    <img alt="Augmented video" src="imgs/ReferenceFrameWithAugmentedLayer.png" width="40%">
+    <figcaption>Augmented Video Caption</figcaption>
+  </figure>
+</p>
+
 ### Sources:
 - [OpenCV](https://opencv.org/)
 - [Remove Text from Images using CV2 and Keras-OCR](https://towardsdatascience.com/remove-text-from-images-using-cv2-and-keras-ocr-24e7612ae4f4)
