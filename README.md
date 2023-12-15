@@ -14,5 +14,5 @@ This individual project was a mandatory part of a course in computer vision and 
 </p>
 
 <p align="center">
-  Original video &emsp;&emsp;&emsp; Augmented video
+  Original video &emsp;&emsp;&emsp;&emsp;&emsp; Augmented video
 </p>
