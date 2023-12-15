@@ -5,6 +5,8 @@ As a part of my master's degree in cybernetics and robotics, I spent one semeste
 
 This individual project was a mandatory part of a course in computer vision and image processing. The project consisted of writing a script able to take in a video of a book and producing a new video with a given augmented layer placed on top, using the [OpenCV](https://opencv.org/) Python library. The original video's camera trajectory has translations and rotations, as well as slow and rapid brightness changes.
 
+Two solutions were developed; one using Frame-to-reference transformations, and one using frame-to-frame transformations.
+
 <br>
 
 <p align="center">
@@ -14,5 +16,5 @@ This individual project was a mandatory part of a course in computer vision and 
 </p>
 
 <p align="center">
-  Original video         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;         Augmented video
+  &emsp;&emsp;&emsp;Original video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Augmented video
 </p>
