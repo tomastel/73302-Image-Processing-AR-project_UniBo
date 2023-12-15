@@ -6,10 +6,11 @@ As a part of my master's degree in cybernetics and robotics, I spent one semeste
 This individual project was a mandatory part of a course in computer vision and image processing. The project consisted of writing a script able to take in a video of a book and producing a new video with a given augmented layer placed on top, using the [OpenCV](https://opencv.org/) Python library. The original video's camera trajectory has translations and rotations, as well as slow and rapid brightness changes.
 
 <p align="center">
-  <img src="imgs/ReferenceFrame.png" alt="Original video" width="300"/>
-  <em>Image 1 description</em>
+  <img src="imgs/ReferenceFrame.png" alt="Original video" style="display:inline-block; width:45%; margin-right:10px;"/>
+  <img src="imgs/ReferenceFrameWithAugmentedLayer.png" alt="Augmented video" style="display:inline-block; width:45%; margin-left:10px;"/>
 </p>
 <p align="center">
-  <img src="imgs/ReferenceFrameWithAugmentedLayer.png" alt="Augmented video" width="300"/>
-  <em>Image 2 description</em>
+  <em style="display:block; width:45%; margin-right:10px; text-align:center; inline-block;">Image 1 description</em>
+  <em style="display:block; width:45%; margin-left:10px; text-align:center; inline-block;">Image 2 description</em>
 </p>
+
