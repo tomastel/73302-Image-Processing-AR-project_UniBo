@@ -7,6 +7,8 @@ This individual project was a mandatory part of a course in computer vision and 
 
 Two solutions were developed; one using Frame-to-reference transformations (output_F2R.avi), and one using frame-to-frame transformations (output_F2F.avi). Both solutions use a pre-trained CNN model for text recognition from [Keras OCR](https://keras-ocr.readthedocs.io/en/latest/).
 
+The images below show the first frame of the original video and of the augmented video.
+
 <br>
 
 <p align="center">
@@ -15,23 +17,7 @@ Two solutions were developed; one using Frame-to-reference transformations (outp
   <img alt="Augmented video" src="imgs/ReferenceFrameWithAugmentedLayer.png" width="40%">
 </p>
 
-<p align="center">
-  &emsp;&emsp;&emsp;Original video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Augmented video
-</p>
-
 <br>
-
-<p align="center">
-  <figure style="display: inline-block;">
-    <img alt="Original video" src="imgs/ReferenceFrame.png" width="40%">
-    <figcaption>Original Video Caption</figcaption>
-  </figure>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <figure style="display: inline-block;">
-    <img alt="Augmented video" src="imgs/ReferenceFrameWithAugmentedLayer.png" width="40%">
-    <figcaption>Augmented Video Caption</figcaption>
-  </figure>
-</p>
 
 ### Sources:
 - [OpenCV](https://opencv.org/)
