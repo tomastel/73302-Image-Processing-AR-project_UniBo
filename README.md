@@ -13,5 +13,5 @@ This individual project was a mandatory part of a course in computer vision and 
   <img alt="Augmented video" src="imgs/ReferenceFrameWithAugmentedLayer.png" width="40%">
 </p>
 <p align="center">
-  Original video &emsp; Augmented video
+  Original video <div style="margin-right: 20px;"> Augmented video</div>
 </p>
