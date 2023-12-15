@@ -5,14 +5,15 @@ As a part of my master's degree in cybernetics and robotics, I spent one semeste
 
 This individual project was a mandatory part of a course in computer vision and image processing. The project consisted of writing a script able to take in a video of a book and producing a new video with a given augmented layer placed on top, using the [OpenCV](https://opencv.org/) Python library. The original video's camera trajectory has translations and rotations, as well as slow and rapid brightness changes.
 
-<p align="center">
-  <img src="imgs/ReferenceFrame.png" alt="Original video" width="250" style="margin-right: 20px;"/>
-  <img src="imgs/ReferenceFrameWithAugmentedLayer.png" alt="Augmented video" width="250" style="margin-left: 20px;"/>
-</p>
-<p align="center" style="margin-right: 20px; display: inline-block; width: 250px; text-align: center;">
-  <em>Image 1 description</em>
-</p>
-<p align="center" style="margin-left: 20px; display: inline-block; width: 250px; text-align: center;">
-  <em>Image 2 description</em>
-</p>
-
+<div align="center">
+  <img src="imgs/ReferenceFrame.png" alt="Original video" width="40%" style="margin: 0 5px;"/>
+  <img src="imgs/ReferenceFrameWithAugmentedLayer.png" alt="Augmented video" width="40%" style="margin: 0 5px;"/>
+</div>
+<div align="center">
+  <div style="display: inline-block; width: 40%; margin: 0 5px; text-align: center;">
+    <em>Image 1 description</em>
+  </div>
+  <div style="display: inline-block; width: 40%; margin: 0 5px; text-align: center;">
+    <em>Image 2 description</em>
+  </div>
+</div>
