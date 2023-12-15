@@ -7,10 +7,7 @@ This individual project was a mandatory part of a course in computer vision and 
 
 <p align="center">
   <img alt="Original video" src="imgs/ReferenceFrame.png" width="40%">
-  <br>
-  <em>Image 1 description</em>
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Augmented video" src="imgs/ReferenceFrameWithAugmentedLayer.png" width="40%">
-  <br>
-  <em>Image 2 description</em>
 </p>
+hi
